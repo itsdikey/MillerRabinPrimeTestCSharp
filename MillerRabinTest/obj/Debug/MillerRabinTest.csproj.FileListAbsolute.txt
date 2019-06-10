@@ -1,0 +1,7 @@
+C:\Users\garmu\source\repos\MillerRabinTest\MillerRabinTest\bin\Debug\MillerRabinTest.exe.config
+C:\Users\garmu\source\repos\MillerRabinTest\MillerRabinTest\bin\Debug\MillerRabinTest.exe
+C:\Users\garmu\source\repos\MillerRabinTest\MillerRabinTest\bin\Debug\MillerRabinTest.pdb
+C:\Users\garmu\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\MillerRabinTest.csprojAssemblyReference.cache
+C:\Users\garmu\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\MillerRabinTest.csproj.CoreCompileInputs.cache
+C:\Users\garmu\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\MillerRabinTest.exe
+C:\Users\garmu\source\repos\MillerRabinTest\MillerRabinTest\obj\Debug\MillerRabinTest.pdb
